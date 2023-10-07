@@ -1,0 +1,8 @@
+Desarrollar este mismo laboratorio para que se convierta en Sistema de Recomendación User-based. Con pearson y trazar estrategia de recomendción, mostrar las recomendaciones para 1 usuario.
+Enviar al correo:
+
+jcaballeroterrazos@gmail.com
+
+Asunto: Tarea 1 Sistemas de recomendación
+
+fecha: 7 Oct 07:59 hrs.
